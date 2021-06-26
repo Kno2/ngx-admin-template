@@ -1,0 +1,20 @@
+{
+  "name": "@kno2/ngx-admin-template",
+  "version": "7.0.2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kno2/ngx-admin-template.git"
+  },
+  "peerDependencies": {
+    "@angular/common": "^12.0.5",
+    "@angular/core": "^12.0.5",
+    "@nebular/auth": "^7.0.0",
+    "@nebular/eva-icons": "^7.0.0",
+    "@nebular/security": "^7.0.0",
+    "@nebular/theme": "^7.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.1.0"
+  }
+}
