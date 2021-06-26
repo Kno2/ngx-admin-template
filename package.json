@@ -1,11 +1,11 @@
 {
-  "name": "@kno2/ngx-admin-theme",
+  "name": "@kno2/ngx-admin-template",
   "version": "7.0.0",
   "description": "",
   "main": "index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kno2/ngx-admin-theme.git"
+    "url": "git+https://github.com/kno2/ngx-admin-template.git"
   }
 }
