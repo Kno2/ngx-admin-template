@@ -6,6 +6,11 @@
     "target": "es2015",
     "declaration": true,
     "declarationMap": true,
+    "strictNullChecks": false,
+    "noImplicitAny": false,
+    "skipLibCheck": true,
+    "strict": false,
+    "strictPropertyInitialization": false,
     "inlineSources": true,
     "types": [],
     "lib": [
@@ -13,6 +18,9 @@
       "es2018"
     ]
   },
+  "include": [
+    "src/**/*.d.ts"
+  ],
   "exclude": [
     "src/test.ts",
     "**/*.spec.ts"

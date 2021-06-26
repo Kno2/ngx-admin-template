@@ -1,0 +1,2 @@
+
+declare const echarts: any;
