@@ -6,6 +6,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kno2/ngx-admin-template.git"
+    "url": "https://github.com/kno2/ngx-admin-template.git"
+  },
+  "peerDependencies": {
+    "@nebular/auth": "^7.0.0",
+    "@nebular/eva-icons": "^7.0.0",
+    "@nebular/security": "^7.0.0",
+    "@nebular/theme": "^7.0.0"
   }
 }
